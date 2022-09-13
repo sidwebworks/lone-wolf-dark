@@ -1,0 +1,34 @@
+{
+  "name": "lone-wolf-dark",
+  "displayName": "lone-wolf-dark",
+  "description": "A dark minimal but beautiful theme",
+  "version": "0.0.1",
+  "publisher": "Sidwebworks",
+  "keywords": [
+    "dark",
+    "theme",
+    "vscode",
+    "vitesse",
+    "night-owl",
+    "editor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidwebworks/lone-wolf-dark"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lone-wolf-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lone-wolf-dark-color-theme.json"
+      }
+    ]
+  }
+}
