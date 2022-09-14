@@ -2,9 +2,15 @@
   "name": "lone-wolf-dark",
   "displayName": "lone-wolf-dark",
   "description": "A dark minimal but beautiful theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Sidwebworks",
   "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "lone-wolf",
+    "lone-wolf-dark",
+    "wolf-dark",
     "dark",
     "theme",
     "vscode",
@@ -22,6 +28,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "lone-wolf.png",
   "contributes": {
     "themes": [
       {
